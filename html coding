@@ -1,0 +1,40 @@
+<title>Assignment</title>
+</head>
+<body>
+    <label for="comment">Enter your comment here:
+    </label>
+    <textarea id="comment" rows="1" col=" 2" placeholder="Enter your comment here"..></textarea>
+    <hr>
+    <iframe  src="https://www.youtube.com/embed/-mwI73Mxa18"  height="450" width="700" How to Study for Mid, Sem Exams and Manage Time for Programming ? MUST Watch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> <hr>
+    <br>
+    <caption>Results of Semester examinations</caption>
+    <table border="1">
+        <tr>
+            <th> S.NO</th>
+            <th>Name</th>
+              <th>Marks</th> 
+              <th>Grade</th>
+        </tr>
+<tr>
+    <td>1</td>
+    <td>varsha</td>
+    <td>98</td>
+    <td>A+</td>
+</tr>
+
+<tr>
+<td>2</dr>
+<td>sounidhi</td>
+<td>97</tdr>
+<td>A+</tdr>
+</tr>
+
+<tr>
+    <td>3</td>
+    <td>varshith</td>
+    <td>98</td>
+    <td>A+</td>
+</tr>
+    </table>
+</body>
+</html>
